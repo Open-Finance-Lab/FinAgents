@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://huggingface.co/datasets/wangd12/XBRL_analysis"><img src="_images/dataset_btn.svg"></a>
-  <a href="https://huggingface.co/spaces/wangd12/xbrl_llm_demo"><img src="_images/demo_btn.svg"></a>
+  <a href="https://huggingface.co/spaces/ghostof0days/finagents-demo"><img src="_images/demo_btn.svg"></a>
   <a href="https://huggingface.co/wangd12/"><img src="_images/models_btn.svg"></a>
   <a href="https://arxiv.org/abs/2505.19819"><img src="_images/paper_btn.svg"></a>
   <a href="https://finlora-docs.readthedocs.io/en/latest/"><img src="_images/doc_btn.svg"></a>
